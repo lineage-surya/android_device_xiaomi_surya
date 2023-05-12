@@ -1,4 +1,4 @@
-# surya package version: V12.5.2.0.RJGINXM, unless stated otherwise
+# surya package version: V12.5.8.0.RJGMIXM, unless stated otherwise
 
 # Alarm
 -product/app/PowerOffAlarm/PowerOffAlarm.apk
@@ -438,8 +438,8 @@ vendor/lib64/libsdm-disp-vndapis.so
 vendor/lib64/libsdmextension.so
 vendor/lib64/libtinyxml2_1.so
 
-# Display - from NX627J 20201029.204053
-vendor/lib64/libsdedrm.so|582910d21139781ad9e414c35207584f51e035e2
+# Display
+vendor/lib64/libsdedrm.so
 
 # DPM
 framework/tcmclient.jar
