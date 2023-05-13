@@ -94,7 +94,7 @@ void vendor_load_properties() {
             model = "M2007J20CG";
     }
 
-    fingerprint = "POCO/surya_global/surya:11/RKQ1.200826.002/V12.5.8.0.RJGMIXM:user/release-keys";
+    fingerprint = "google/raven/raven:13/TQ2A.230505.002/9891397:user/release-keys";
 
     set_ro_build_prop("fingerprint", fingerprint);
     set_ro_product_prop("device", device);
